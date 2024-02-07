@@ -9,9 +9,10 @@ Carrier Detection: Utilize the Carrier library to identify the mobile network ca
 
 Installation:
 To get started with the Tracking Location project, follow these steps:
-  1. Clone the repository to your local machine:
+1. Clone the repository to your local machine:
      git clone https://github.com/GeetishM/tracking-location.git
-  2.Install the required dependencies:
+  
+2.Install the required dependencies:
     pip install opencage
     pip install carrier
     pip install folium
