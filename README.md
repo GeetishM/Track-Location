@@ -16,3 +16,7 @@ To get started with the Tracking Location project, follow these steps:
     pip install opencage
     pip install carrier
     pip install folium
+3. Configure the necessary API keys for Geocoder, Carrier, and OpenCageGeocode. Refer to the respective documentation for obtaining and configuring these keys.
+
+Contributions:
+Contributions to the Tracking Location project are welcome! If you encounter any issues, have suggestions for improvements, or want to add new features, feel free to open an issue or submit a pull request.
