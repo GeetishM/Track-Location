@@ -6,3 +6,12 @@ Features:
 Geocoding: Utilize the Geocoder library to convert addresses into geographic coordinates (latitude and longitude), enabling precise location identification.
 Reverse Geocoding: Employ the Geocoder library to reverse geocode coordinates, translating geographic coordinates into human-readable addresses.
 Carrier Detection: Utilize the Carrier library to identify the mobile network carrier associated with a given phone number, enhancing the application's functionality for tracking mobile devices.
+
+Installation:
+To get started with the Tracking Location project, follow these steps:
+  1. Clone the repository to your local machine:
+     git clone https://github.com/GeetishM/tracking-location.git
+  2.Install the required dependencies:
+    pip install opencage
+    pip install carrier
+    pip install folium
